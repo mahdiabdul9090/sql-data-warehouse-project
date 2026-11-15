@@ -45,4 +45,5 @@ Hi there! I'm **Mahdi Abdul-Kareem**, a **Computer Engineer** passionate about d
 Feel free to explore the repository, check out the SQL scripts, or reach out to connect and collaborate!
 
 - **LinkedIn:** [Mahdi Abdul-Kareem](https://www.linkedin.com/in/mahdi-abdul-kareem-6473b8251)
+- **GitHub:** [Mahdi Abdul-Kareem](https://github.com/mahdiabdul9090)
 - **Email:** abda200068@gmail.com
